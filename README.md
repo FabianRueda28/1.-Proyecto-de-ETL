@@ -8,9 +8,9 @@ En este link pueden ver un video con el trabajo desde 0 con el cual peden llevar
 
 # Herramientas
 Python
-    -Pandas
+    (Pandas
     -Numpy 
-    -openpyxl 
+    -openpyxl) 
 
 -MySQL Workbench
 
@@ -30,7 +30,6 @@ precios_semana_20200518.txt -> precios_semana_3.txt
 precios_semanas_20200426.xlsx -> precios_semana_4.xlsx
 precios_semanas_20200419.xlsx -> precios_semana_5.xlsx
 Producto.parquet y sucursales.csv los dejamos con los mismos nombres. 
-
 
 # Limpieza de datos 
 Para ello nos vamos al archivo Transform.ipynb y vemos los pasos que se realizarón para la transformación y limpieza parcial de los datos. 

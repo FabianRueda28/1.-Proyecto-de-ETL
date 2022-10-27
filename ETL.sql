@@ -134,7 +134,7 @@ foreign key (Producto_id) references productos(Id_producto);
 select avg(Precio) from precios where Sucursal_id = 91688;
 
 
-LOAD DATA INFILE 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\ETL\\precios_semana_3_txt.csv'
+LOAD DATA INFILE 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\precios_semana_3_txt.csv'
 INTO TABLE precios
 FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY ''
 LINES TERMINATED BY '\n' IGNORE 1 LINES;
