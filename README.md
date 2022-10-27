@@ -5,6 +5,7 @@
 En este proceso recibimos datos semiestructurados de tipo Json, Parquet, xlsx y txt, los cuales pasarán por una serie de procesos como transformación y limpieza para despues cargarlos a un DataBase(DB) y crear DataSets donde terminaremos equilibrando los datos, esto con el fin de hacer consultas mas rapidas, con una precición eficaz de los datos y reducción en el tiempo de la optimización del trabajo para futuras tareas. 
 
 En este link pueden ver un video con el trabajo desde 0 con el cual peden llevar seguimiento del proyecto mismo.
+https://drive.google.com/drive/u/0/folders/1EUj077qRgb1uMASa_OxjJeP-rF7SsUgI
 
 # Herramientas
 Python
