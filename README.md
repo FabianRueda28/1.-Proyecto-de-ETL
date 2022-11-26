@@ -13,8 +13,10 @@ Python
     (Pandas
     -Numpy 
     -openpyxl) 
+<img src = 'https://github.com/FabianRueda28/Proyecto-No.1---Data-Engineer/blob/main/src/python-logo.png' height = 300, >
 
 -MySQL Workbench
+<img src = 'https://github.com/FabianRueda28/Proyecto-No.1---Data-Engineer/blob/main/src/mysql.jpg' height = 300, >
 
 # Extracción
 Descargamos los datos del siguiente link donde van a poder encontrar los archivos con los que van a trabajar: https://drive.google.com/drive/folders/1Rsq-HHomPtQwy7RIWQ574wKcf56LiGq1?usp=sharing 
