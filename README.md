@@ -9,13 +9,12 @@ En este link pueden ver un video con el trabajo desde 0 con el cual peden llevar
 https://drive.google.com/drive/u/0/folders/1EUj077qRgb1uMASa_OxjJeP-rF7SsUgI
 
 # Herramientas
-Python
-    (Pandas
-    -Numpy 
-    -openpyxl) 
+- Python
 <img src = 'https://github.com/FabianRueda28/Proyecto-No.1---Data-Engineer/blob/main/src/python-logo.png' height = 300, >
 
--MySQL Workbench
+
+- MySQL Workbench
+
 <img src = 'https://github.com/FabianRueda28/Proyecto-No.1---Data-Engineer/blob/main/src/mysql.jpg' height = 300, >
 
 # Extracción
